@@ -12,3 +12,10 @@ El objetivo de esta iniciativa es que cualquier espacio de coworking puede impla
 Esta iniciativa es una experiencia de generación conocimiento compartido y tanto el conocimiento específico como las herramientas desarrolladas se ponen a disposición de cualquier interesado bajo licencia Creative Commons (consultar los archivos RESUMEN LICENCIA y LICENSE para más detalles)
 
 Éste es un proyecto colaborativo (ver archivo AUTORES) patrocinado por Senda 15 Coworking.
+
+Podeis plantearnos  cualquier consulta o duda creando un issue en la plataforma.
+
+Únete a este proyecto de conocimiento libre para mejorarlo. 
+
+------------------------------------------------------
+
