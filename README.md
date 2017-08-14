@@ -1,7 +1,7 @@
 # gestion-residuos-coworking
 
-Plan de gestión de residuos para espacios de coworking
-------------------------------------------------------
+Plan de gestión de residuos para espacios de coworking y oficinas
+-----------------------------------------------------------------
 
 Herramienta para la implantación sencilla de un plan de gestión de residuos para espacios de coworking o cualquier otro espacio de oficina.
 
