@@ -1,0 +1,8 @@
+File Name                                Hash Value                                   File Size (on Disk)   
+PGR Coworking.odt                        9DD39F496874FC5720B8A4067B80151B3E5E02B6     1879548 bytes (1,79 Mi
+PGR Coworking.pdf                        7286C8DE46C97BC2A77F7290E3160B24099676FE     1373775 bytes (1,31 Mi
+A1 Tabla de Residuos.ods                 BA7CB61CE139F48C2396F6877702EB1BCE5DC03E     12741 bytes (12,44 KiB
+A2 Ejemplo de tabla de Residuos completad296B5C9FB7DB9189F533CFD391EB57953D63B964     32040 bytes (31,29 KiB
+A3 Tabla de Acciones.ods                 A759F4BB59351D871617D0857CAFD7BA58CA8AA2     11651 bytes (11,38 KiB
+A4 Ejemplo de tabla de Acciones.pdf      9862FA784AC32BBC4FC7F3C1F368EC9CDFBD6B73     30938 bytes (30,21 KiB
+A5 Tabla de medición de residuos generado7354061029DB1F894475F17BFD21C5450B5875F1     13823 bytes (13,5 KiB)
