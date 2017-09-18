@@ -6,3 +6,5 @@ A2 Ejemplo de tabla de Residuos completad296B5C9FB7DB9189F533CFD391EB57953D63B96
 A3 Tabla de Acciones.ods                 A759F4BB59351D871617D0857CAFD7BA58CA8AA2     11651 bytes (11,38 KiB
 A4 Ejemplo de tabla de Acciones.pdf      9862FA784AC32BBC4FC7F3C1F368EC9CDFBD6B73     30938 bytes (30,21 KiB
 A5 Tabla de medición de residuos generado7354061029DB1F894475F17BFD21C5450B5875F1     13823 bytes (13,5 KiB)
+
+Calculado con QuickHash https://www.quickhash-gui.org
