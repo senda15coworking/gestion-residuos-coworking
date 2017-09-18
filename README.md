@@ -3,7 +3,7 @@
 Plan de gestión de residuos para espacios de coworking y oficinas
 -----------------------------------------------------------------
 
-Herramienta para la implantación sencilla de un plan de gestión de residuos para espacios de coworking o cualquier otro espacio de oficina.
+Herramienta para la implantación sencilla de un Plan de Gestión de Residuos (PGR para abreviar) para espacios de coworking o cualquier otro espacio de oficina.
 
 ¿Cuál es el impacto ambiental de un espacio de coworking? Se trata sólo de una oficina compartida; es pequeño si lo comparamos con el cualquier actividad industrial. Sin embargo, nuestras ciudades están llenas de oficinas, por lo que su impacto agregado no es desdeñable.
 
@@ -14,6 +14,8 @@ El objetivo de esta iniciativa es que cualquier espacio de coworking puede impla
 Esta iniciativa es una experiencia de generación conocimiento compartido y tanto el conocimiento específico como las herramientas desarrolladas se ponen a disposición de cualquier interesado bajo licencia Creative Commons (consultar los archivos RESUMEN LICENCIA y LICENSE para más detalles)
 
 Te aconsejamos que, en primer lugar, eches un vistazo rápido a las preguntas frecuentes del wiki del proyecto.
+
+El núcleo del proyecto está en el documento "PGR Coworking" ya sea en formato ODF o PDF.
 
 Éste es un proyecto colaborativo (ver archivo AUTORES) patrocinado por Senda 15 Coworking.
 
