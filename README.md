@@ -21,5 +21,5 @@ El núcleo del proyecto está en el documento "PGR Coworking" ya sea en formato 
 
 Únete a este proyecto de conocimiento libre para mejorarlo. 
 
-------------------------------------------------------
+-----------------------------------------------------------------
 
