@@ -19,7 +19,7 @@ El núcleo del proyecto está en el documento "PGR Coworking" ya sea en formato 
 
 Éste es un proyecto colaborativo (ver archivo AUTORES) patrocinado por Senda 15 Coworking.
 
-Únete a este proyecto de conocimiento libre para mejorarlo. 
+Aporta a este proyecto de conocimiento libre para mejorarlo. 
 
 -----------------------------------------------------------------
 
